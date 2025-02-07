@@ -1,6 +1,6 @@
 ## Hi Hackers 👋
 
-I'm **Naveen Pal**, a passionate tech enthusiast and open source contributor in the making.
+I'm **Naveen Pal**, a passionate tech enthusiast and open source contributor.
 
 If I had to sum myself up in three lines, it would be:
 - **Systems are my friends.**

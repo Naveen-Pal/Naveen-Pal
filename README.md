@@ -9,7 +9,7 @@ If I had to sum myself up in three lines, it would be:
 
 Are you also tired of the routine? Let’s do something crazy! I'm always up for a conversation about tech, ideas, or just about anything fun. Who knows? We might build something awesome together.
 
-**Email:** 23110216@iitgn.ac.in
+**Email:** naveen.pal@iitgn.ac.in
 
 **Happy Hacking!**
 

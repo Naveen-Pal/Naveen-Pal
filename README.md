@@ -7,7 +7,8 @@ If I had to sum myself up in three lines, it would be:
 - **Open source is my love.**
 - **Competitive programming is my crush.**
 
-Are you also tired of the routine? Let’s do something crazy! I'm always up for a conversation about tech, ideas, or just about anything fun. Who knows? We might build something awesome together.
+I'm always up for a conversation about tech, ideas, or just about anything fun.
+Let's build something awesome together.
 
 **Email:** naveen.pal@iitgn.ac.in
 
